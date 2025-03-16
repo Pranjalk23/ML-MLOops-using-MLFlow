@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bf2fb375765a46e6bb4cdceb1902d40e/artifacts
+end_time: 1741842554506
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf2fb375765a46e6bb4cdceb1902d40e
+run_name: adventurous-mare-718
+run_uuid: bf2fb375765a46e6bb4cdceb1902d40e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741842552373
+status: 3
+tags: []
+user_id: Pranjal Kashyap

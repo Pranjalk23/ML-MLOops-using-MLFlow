@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/499978240939004102/4dbfe1c6136c4b53aa3d23d87f8d638d/artifacts
+deleted_time: 1741846453144
+end_time: 1741844902487
+entry_point_name: ''
+experiment_id: '499978240939004102'
+lifecycle_stage: deleted
+run_id: 4dbfe1c6136c4b53aa3d23d87f8d638d
+run_name: loud-crane-990
+run_uuid: 4dbfe1c6136c4b53aa3d23d87f8d638d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741844589244
+status: 3
+tags: []
+user_id: Pranjal Kashyap

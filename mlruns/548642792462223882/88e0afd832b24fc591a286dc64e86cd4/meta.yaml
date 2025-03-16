@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/548642792462223882/88e0afd832b24fc591a286dc64e86cd4/artifacts
+end_time: 1741845742094
+entry_point_name: ''
+experiment_id: '548642792462223882'
+lifecycle_stage: active
+run_id: 88e0afd832b24fc591a286dc64e86cd4
+run_name: omniscient-stork-110
+run_uuid: 88e0afd832b24fc591a286dc64e86cd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741845639996
+status: 3
+tags: []
+user_id: Pranjal Kashyap
