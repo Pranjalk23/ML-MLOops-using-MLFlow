@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Pranjal%20Kashyap/Desktop/MLOps%20ML/ML-MLOops-using-MLFlow/mlruns/191109719394078117/e8f500ce6f394baf94a6e68e5ecfd45b/artifacts
+end_time: 1742135124704
+entry_point_name: ''
+experiment_id: '191109719394078117'
+lifecycle_stage: active
+run_id: e8f500ce6f394baf94a6e68e5ecfd45b
+run_name: capricious-hog-353
+run_uuid: e8f500ce6f394baf94a6e68e5ecfd45b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742135124556
+status: 4
+tags: []
+user_id: Pranjal Kashyap

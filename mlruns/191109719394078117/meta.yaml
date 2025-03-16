@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Pranjal%20Kashyap/Desktop/MLOps%20ML/ML-MLOops-using-MLFlow/mlruns/191109719394078117
+creation_time: 1742135123576
+experiment_id: '191109719394078117'
+last_update_time: 1742135123576
+lifecycle_stage: active
+name: breast-cancer-rf-hp
